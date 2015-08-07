@@ -1,0 +1,9 @@
+University of Utah			14000  ||4.3
+illinois institute of technology 	27000 || 4.6
+University of Arizona		20000  ||4.1
+University of Cincinnati		24000\\4.1
+University of Florida		24000||4.1//goodplacement
+Clemson University			16000||4.5
+Washington State University		20000\\4.4
+North Carolina State University	20000||4.5	=>December 15 
+Washington State University		20000||4.4
